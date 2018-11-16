@@ -6,6 +6,6 @@
  * @param {string} locale
  * @return {string}
  */
-module.exports = function(number) {
-    return number % 3 === 0;
+module.exports = function(number, locale) {
+    return number.toLocaleString(locale);
 };

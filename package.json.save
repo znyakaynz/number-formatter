@@ -1,0 +1,21 @@
+{
+  "name": "number-formatter",
+  "version": "0.1.0",
+  "description": "Number Formatter ",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/znyakaynz/number-formatter.git"
+  },
+  "author": "ryamsey.ryam <ryambudha@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/znyakaynz/number-formatter/issues"
+  },
+  "homepage": "https://github.com/znyakaynz/number-formatter#readme"
+}
+  "node": ">=4.2.4"
+}
