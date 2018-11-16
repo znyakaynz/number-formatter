@@ -10,5 +10,8 @@ script:
   - npm run test
 
 deploy:
+  provider: npm
+  email: "ryambudha@gmail.com"
+  api_key: "1c22809a-62ef-4eec-ad68-d754e0fdcb2d"
   on:
     tags: true
