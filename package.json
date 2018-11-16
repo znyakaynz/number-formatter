@@ -1,6 +1,6 @@
 {
   "name": "number-formatterznyak",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Number Formatter ",
   "main": "index.js",
   "scripts": {
